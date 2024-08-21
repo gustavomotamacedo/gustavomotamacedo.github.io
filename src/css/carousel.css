@@ -1,0 +1,13 @@
+.carousel-container{
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-image {
+    width: 30rem;
+    align-self: center;
+}
